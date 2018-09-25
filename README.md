@@ -1,2 +1,2 @@
 # fidelity
-Training neural networks to speak like me
+Training neural networks to speak like yourself
